@@ -14,6 +14,7 @@
 		1C8E5D75287F8B4800009226 /* LearningGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8E5D74287F8B4800009226 /* LearningGitTests.swift */; };
 		1C8E5D7F287F8B4800009226 /* LearningGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8E5D7E287F8B4800009226 /* LearningGitUITests.swift */; };
 		1C8E5D81287F8B4800009226 /* LearningGitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8E5D80287F8B4800009226 /* LearningGitUITestsLaunchTests.swift */; };
+		1C8E5D8E287F93CE00009226 /* Mymodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8E5D8D287F93CE00009226 /* Mymodel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1C8E5D7A287F8B4800009226 /* LearningGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C8E5D7E287F8B4800009226 /* LearningGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGitUITests.swift; sourceTree = "<group>"; };
 		1C8E5D80287F8B4800009226 /* LearningGitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1C8E5D8D287F93CE00009226 /* Mymodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mymodel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				1C8E5D65287F8B3F00009226 /* ContentView.swift */,
 				1C8E5D67287F8B4700009226 /* Assets.xcassets */,
 				1C8E5D69287F8B4700009226 /* Preview Content */,
+				1C8E5D8D287F93CE00009226 /* Mymodel.swift */,
 			);
 			path = LearningGit;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C8E5D8E287F93CE00009226 /* Mymodel.swift in Sources */,
 				1C8E5D66287F8B3F00009226 /* ContentView.swift in Sources */,
 				1C8E5D64287F8B3F00009226 /* LearningGitApp.swift in Sources */,
 			);
